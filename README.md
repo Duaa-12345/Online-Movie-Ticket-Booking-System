@@ -1,1 +1,2 @@
 # Online-Movie-Ticket-Booking-System
+This is an online movie ticket booking system where a user can select cinema and movie of his choice according to his preferred timings. He can avail different discounts based on various timings, weekdays and student offers. He can select seat of his own choice based on the hall map provided. After he has finalized the movie, his seat will be booked and he can pay through different available options. Then a ticket will be generated. 
